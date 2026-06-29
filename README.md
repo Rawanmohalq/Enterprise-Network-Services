@@ -2,8 +2,7 @@
 Enterprise Network Services using NLANs , Inter-VLAN Routing , DHCP , DNS , and HTTP Server in Cisco Packet Tracer.
 # Enterprise VLAN & Network Services
 
-![Enterprise Network Topology](./Network-Topology.jpeg)
-
+![Enterprise Network Topology](Enterprise-Network-Topology.jpeg)
 ## Overview
 
 This project demonstrates an enterprise network implemented in Cisco Packet Tracer using VLAN segmentation, Inter-VLAN Routing (Router-on-a-Stick), DHCP, DNS, and HTTP services.
